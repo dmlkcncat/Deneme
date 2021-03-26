@@ -1,0 +1,11 @@
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\KampIntro\bin\Debug\netcoreapp2.1\KampIntro.deps.json
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\KampIntro\bin\Debug\netcoreapp2.1\KampIntro.runtimeconfig.json
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\KampIntro\bin\Debug\netcoreapp2.1\KampIntro.runtimeconfig.dev.json
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\KampIntro\bin\Debug\netcoreapp2.1\KampIntro.dll
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\KampIntro\bin\Debug\netcoreapp2.1\KampIntro.pdb
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\KampIntro\obj\Debug\netcoreapp2.1\KampIntro.csprojAssemblyReference.cache
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\KampIntro\obj\Debug\netcoreapp2.1\KampIntro.csproj.CoreCompileInputs.cache
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\KampIntro\obj\Debug\netcoreapp2.1\KampIntro.AssemblyInfoInputs.cache
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\KampIntro\obj\Debug\netcoreapp2.1\KampIntro.AssemblyInfo.cs
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\KampIntro\obj\Debug\netcoreapp2.1\KampIntro.dll
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\KampIntro\obj\Debug\netcoreapp2.1\KampIntro.pdb

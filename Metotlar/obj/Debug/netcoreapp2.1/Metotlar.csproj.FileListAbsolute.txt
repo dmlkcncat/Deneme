@@ -1,0 +1,11 @@
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Metotlar\bin\Debug\netcoreapp2.1\Metotlar.deps.json
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Metotlar\bin\Debug\netcoreapp2.1\Metotlar.runtimeconfig.json
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Metotlar\bin\Debug\netcoreapp2.1\Metotlar.runtimeconfig.dev.json
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Metotlar\bin\Debug\netcoreapp2.1\Metotlar.dll
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Metotlar\bin\Debug\netcoreapp2.1\Metotlar.pdb
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Metotlar\obj\Debug\netcoreapp2.1\Metotlar.csprojAssemblyReference.cache
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Metotlar\obj\Debug\netcoreapp2.1\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Metotlar\obj\Debug\netcoreapp2.1\Metotlar.AssemblyInfoInputs.cache
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Metotlar\obj\Debug\netcoreapp2.1\Metotlar.AssemblyInfo.cs
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Metotlar\obj\Debug\netcoreapp2.1\Metotlar.dll
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Metotlar\obj\Debug\netcoreapp2.1\Metotlar.pdb

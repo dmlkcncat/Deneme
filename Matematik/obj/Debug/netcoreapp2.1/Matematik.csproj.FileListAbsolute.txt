@@ -1,0 +1,10 @@
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Matematik\bin\Debug\netcoreapp2.1\Matematik.deps.json
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Matematik\bin\Debug\netcoreapp2.1\Matematik.runtimeconfig.json
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Matematik\bin\Debug\netcoreapp2.1\Matematik.runtimeconfig.dev.json
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Matematik\bin\Debug\netcoreapp2.1\Matematik.dll
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Matematik\bin\Debug\netcoreapp2.1\Matematik.pdb
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Matematik\obj\Debug\netcoreapp2.1\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Matematik\obj\Debug\netcoreapp2.1\Matematik.AssemblyInfoInputs.cache
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Matematik\obj\Debug\netcoreapp2.1\Matematik.AssemblyInfo.cs
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Matematik\obj\Debug\netcoreapp2.1\Matematik.dll
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Matematik\obj\Debug\netcoreapp2.1\Matematik.pdb

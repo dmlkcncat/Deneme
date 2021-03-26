@@ -1,0 +1,11 @@
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Donguler\bin\Debug\netcoreapp2.1\Donguler.deps.json
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Donguler\bin\Debug\netcoreapp2.1\Donguler.runtimeconfig.json
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Donguler\bin\Debug\netcoreapp2.1\Donguler.runtimeconfig.dev.json
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Donguler\bin\Debug\netcoreapp2.1\Donguler.dll
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Donguler\bin\Debug\netcoreapp2.1\Donguler.pdb
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Donguler\obj\Debug\netcoreapp2.1\Donguler.csprojAssemblyReference.cache
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Donguler\obj\Debug\netcoreapp2.1\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Donguler\obj\Debug\netcoreapp2.1\Donguler.AssemblyInfoInputs.cache
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Donguler\obj\Debug\netcoreapp2.1\Donguler.AssemblyInfo.cs
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Donguler\obj\Debug\netcoreapp2.1\Donguler.dll
+C:\Users\DAMLA\Desktop\Deneme\KampIntro\Donguler\obj\Debug\netcoreapp2.1\Donguler.pdb
